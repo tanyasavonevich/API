@@ -1,0 +1,52 @@
+{
+   "Name":"Tatiana Savonevich",
+   "Post":"QA Engineer",
+   "Summary":[
+      "I am Junior QA Engineer",
+      "I've finished course at Belhard IT-Academy",
+      "Hard-working; energetic and proactive",
+      "opened to learning new tools and skills to everything new",
+      "Now I'm looking for a job where it is possible to put my knowledge to a good use"
+   ],
+   "Education":[
+      {
+         "Training period":"February - May 2023",
+         "Specialization":"QA Engineer",
+         "Place of study":"Belhard IT-Academy"
+      },
+      {
+         "Training period":"September 2020 - present",
+         "Specialization":"Economist",
+         "Place of study":"GrSAU"
+      }
+   ],
+   "Skills":[
+      "Knowledge of test documentation",
+      "knowledge of types; levels and methodologies (Agile, Waterfall)",
+      "knowledge of design test techniques",
+      "knowledge of SQL",
+      "knowledge ms office",
+      "fast learnability",
+      "ability to work in a team"
+   ],
+   "Experience":[
+      "Requirements testing",
+      "development of test cases and checklists",
+      "writing a test plan",
+      "creating a bug report and writing TRR",
+      "testing the electronic questionnaire form and the Buggy Calculator application",
+      "creating simple websites",
+      "working with DataBase (Access)",
+      "working with 1C (8.2)",
+      "working with TestRail",
+      "working with Git"
+   ],
+   "Contact":[
+      {
+         "Telephone":375339004830
+      },
+      {
+         "E-mail":"tytana1203@gmail.com"
+      }
+   ]
+}
